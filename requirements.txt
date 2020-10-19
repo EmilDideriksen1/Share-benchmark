@@ -1,0 +1,4 @@
+pandas==1.1.3
+ipywidgets==7.5.1
+IPython.display==7.18.1
+ipywidgets.widgets.interaction==7.5.1
